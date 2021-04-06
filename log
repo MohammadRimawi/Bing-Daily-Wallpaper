@@ -1,0 +1,232 @@
+2020-11-23 17:56:07.087193 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-23 17:57:04.047234 
+	↳ ERROR: Faild to connect to Bing Servers
+	↳ Using [ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US ]
+ 		↳ {'loadConfig': 1, 'connected': 0, 'downloaded': 0, 'saved': 0, 'set': 0}
+2020-11-23 17:57:26.026236 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-25 13:55:32.938903 
+	↳ ERROR: Faild to set the image
+	↳ Using [ /usr/bin/gsettings set org.gnome.desktop.background picture-uri '/home/rimawi/Bing Daily Wallpaper/images/A grove of American elm trees at Central Park's Mall, New York City' ]
+ 		↳ {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 0}
+2020-11-25 13:56:58.134767 
+	↳ ERROR: Faild to set the image
+	↳ Using [ /usr/bin/gsettings set org.gnome.desktop.background picture-uri '/home/rimawi/Bing Daily Wallpaper/images/A grove of American elm trees at Central Park's Mall, New York City' ]
+ 		↳ {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 0}
+2020-11-25 13:58:54.299352 
+	↳ ERROR: Faild to set the image
+	↳ Using [ /usr/bin/gsettings set org.gnome.desktop.background picture-uri '/home/rimawi/Bing Daily Wallpaper/images/A grove of American elm trees at Central Park\'s Mall, New York City' ]
+ 		↳ {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 0}
+2020-11-25 14:00:18.254326 
+	↳ ERROR: Faild to set the image
+	↳ Using [ /usr/bin/gsettings set org.gnome.desktop.background picture-uri '/home/rimawi/Bing Daily Wallpaper/images/A grove of American elm trees at Central Park's Mall, New York City' ]
+ 		↳ {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 0}
+2020-11-25 14:03:03.368932 
+	↳ ERROR: Faild to set the image
+	↳ Using [ /usr/bin/gsettings set org.gnome.desktop.background picture-uri '/home/rimawi/Bing Daily Wallpaper/images/A grove of American elm trees at Central Park's Mall, New York City' ]
+ 		↳ {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 0}
+2020-11-25 14:03:30.660715 
+	↳ ERROR: Faild to set the image
+	↳ Using [ /usr/bin/gsettings set org.gnome.desktop.background picture-uri '/home/rimawi/Bing Daily Wallpaper/images/A grove of American elm trees at Central Park's Mall, New York City' ]
+ 		↳ {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 0}
+2020-11-25 14:04:21.622416 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-25 14:04:38.793766 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-25 14:04:53.793167 
+	↳ ERROR: Faild to set the image
+	↳ Using [ /usr/bin/gsettings set org.gnome.desktop.background picture-uri '/home/rimawi/Bing Daily Wallpaper/images/A grove of American elm trees at Central Park's Mall, New York City' ]
+ 		↳ {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 0}
+2020-11-25 14:06:06.974593 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-25 14:28:36.259836 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-25 14:28:52.985800 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-25 14:29:23.999774 2020-11-25 14:29:44.893957 
+	↳ ERROR: Faild to save the image
+	↳ At [ Bing Daily Wallpaper/images/Old Town of Bern, Switzerland (© Simon Zenger/Alamy) ]
+ 		↳ {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 0, 'set': 0}
+2020-11-25 14:30:26.463241 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-25 14:30:41.329573 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-25 16:01:03.568286 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-25 16:24:24.952545 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-25 16:27:46.267197 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-25 16:28:25.233863 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-26 11:21:26.070864 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-26 11:27:47.744389 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-26 11:33:07.276361 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-26 11:33:25.670982 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-26 11:35:03.846240 2020-11-26 11:37:31.946516 2020-11-26 11:39:26.246955 2020-11-26 11:40:00.872900 2020-11-26 11:40:25.821076 
+	↳ ERROR: Faild to save the image
+	↳ At [ Bing Daily Wallpaper/images/A Siberian chipmunk on Mount Taisetsu, Hokkaido, Japan (© Ida Toshiaki//Minden Pictures) ]
+ 		↳ {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 0, 'set': 0}
+2020-11-26 11:40:59.377398 
+	↳ ERROR: Faild to save the image
+	↳ At [ Bing Daily Wallpaper/images/A Siberian chipmunk on Mount Taisetsu, Hokkaido, Japan (© Ida Toshiaki\/Minden Pictures) ]
+ 		↳ {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 0, 'set': 0}
+2020-11-26 11:41:16.953493 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-26 11:41:32.063007 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-26 11:43:06.443352 2020-11-26 11:43:53.003844 2020-11-26 11:44:27.721961 2020-11-26 11:44:48.956350 2020-11-26 11:44:58.074987 2020-11-26 11:45:22.376510 2020-11-26 11:45:33.578937 2020-11-26 11:46:08.224128 2020-11-26 11:46:42.728925 2020-11-26 11:47:22.117137 2020-11-26 11:48:04.360253 2020-11-26 11:48:28.066394 2020-11-26 11:49:10.600840 2020-11-26 11:49:18.400216 2020-11-26 11:49:43.174474 2020-11-26 11:49:51.381583 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-26 13:19:56.458736 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-26 13:22:21.944636 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-26 13:23:13.825993 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-26 13:23:23.569496 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-26 13:23:32.265847 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-26 13:23:40.391987 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-26 13:23:47.543264 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-26 13:23:55.504724 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-26 13:24:06.571914 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-26 13:24:20.936746 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-26 13:24:34.049416 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-26 13:26:00.029284 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-26 13:28:27.287685 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-26 13:36:24.631175 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-26 13:37:52.790759 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-29 22:07:56.491342 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-30 00:35:48.266516 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-11-30 10:30:58.010297 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-12-04 12:31:32.806888 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-12-11 13:55:17.030976 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-12-23 13:47:06.105000 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-12-23 14:29:10.673678 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-12-23 15:09:53.613954 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-12-30 13:47:42.941919 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-12-30 15:34:38.396819 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2020-12-30 16:11:52.142153 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-05 22:06:25.450000 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-05 22:09:51.334354 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-05 22:25:14.811627 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-05 22:31:33.280432 
+	↳ ERROR: Faild to download the image
+	↳ Using [ https://www.bing.com/th?id=OHR.RedFrontMacaw_ROW7177539904_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp ]
+ 		↳ {'loadConfig': 1, 'connected': 1, 'downloaded': 0, 'saved': 0, 'set': 0}
+2021-01-06 13:52:10.810244 
+	↳ ERROR: Faild to connect to Bing Servers
+	↳ Using [ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-JO ]
+ 		↳ {'loadConfig': 1, 'connected': 0, 'downloaded': 0, 'saved': 0, 'set': 0}
+2021-01-06 13:54:12.687524 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-06 13:54:56.033437 
+	↳ ERROR: Faild to download the image
+	↳ Using [ https://www.bing.com/th?id=OHR.SnowCraterLake_ROW7226300299_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp ]
+ 		↳ {'loadConfig': 1, 'connected': 1, 'downloaded': 0, 'saved': 0, 'set': 0}
+2021-01-06 13:56:49.445512 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-06 13:57:05.371915 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-06 14:57:34.588169 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-10 10:00:17.086607 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-11 21:54:52.347307 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-11 22:10:58.406943 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-12 12:57:13.542225 
+	↳ ERROR: Faild to download the image
+	↳ Using [ https://www.bing.com/th?id=OHR.SeaFort_ROW7791924504_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp ]
+ 		↳ {'loadConfig': 1, 'connected': 1, 'downloaded': 0, 'saved': 0, 'set': 0}
+2021-01-12 13:56:39.592405 
+	↳ ERROR: Faild to connect to Bing Servers
+	↳ Using [ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-JO ]
+ 		↳ {'loadConfig': 1, 'connected': 0, 'downloaded': 0, 'saved': 0, 'set': 0}
+2021-01-12 13:57:43.516240 
+	↳ ERROR: Faild to connect to Bing Servers
+	↳ Using [ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-JO ]
+ 		↳ {'loadConfig': 1, 'connected': 0, 'downloaded': 0, 'saved': 0, 'set': 0}
+2021-01-12 13:58:26.350359 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-12 18:07:05.934929 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-13 20:05:30.988157 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-14 00:29:46.827217 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-14 00:30:38.814524 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-14 00:32:07.218213 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-14 03:14:35.965990 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-14 03:38:16.136686 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-14 11:01:03.324425 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-14 11:02:05.710739 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-14 18:23:42.695557 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-14 18:24:54.955930 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-14 22:52:13.528407 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-14 22:57:59.277766 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-14 23:14:13.573999 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-14 23:35:27.857850 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-14 23:51:03.555274 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-15 00:02:27.980644 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-16 00:34:40.516569 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-16 11:04:11.248089 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-16 11:06:06.685643 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-16 12:30:51.436544 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-16 13:01:24.052419 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-17 20:12:02.184215 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-17 20:14:16.732621 
+	↳ ERROR: Faild to connect to Bing Servers
+	↳ Using [ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US ]
+ 		↳ {'loadConfig': 1, 'connected': 0, 'downloaded': 0, 'saved': 0, 'set': 0}
+2021-01-17 20:17:06.618284 
+	↳ ERROR: Faild to download the image
+	↳ Using [ https://www.bing.com/th?id=OHR.PailonDelDiablo_EN-US4820504961_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp ]
+ 		↳ {'loadConfig': 1, 'connected': 1, 'downloaded': 0, 'saved': 0, 'set': 0}
+2021-01-18 23:55:03.658127 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-18 23:56:13.081722 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-18 23:57:09.911006 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-18 23:58:23.943375 
+	↳ ERROR: config.json was not loaded at [ ./Bing Daily Wallpaper/code/config.json ]
+ 		↳ {'loadConfig': 0, 'connected': 0, 'downloaded': 0, 'saved': 0, 'set': 0}
+2021-01-19 00:00:34.685625 
+	↳ ERROR: config.json was not loaded at [ ../config.json ]
+ 		↳ {'loadConfig': 0, 'connected': 0, 'downloaded': 0, 'saved': 0, 'set': 0}
+2021-01-19 00:00:42.744366 2021-01-19 00:01:26.725929 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-19 00:01:54.687153 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-20 20:20:45.521694 
+	↳ ERROR: Faild to connect to Bing Servers
+	↳ Using [ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-JO ]
+ 		↳ {'loadConfig': 1, 'connected': 0, 'downloaded': 0, 'saved': 0, 'set': 0}
+2021-01-20 20:24:05.396206 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-20 20:24:42.507475 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-29 19:43:33.733195 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-29 20:02:31.295808 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-01-30 03:37:23.170189 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-02-01 21:32:13.234545 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-02-01 21:43:14.165808 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-02-02 13:55:36.721817 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-02-02 13:56:50.958590 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-02-02 14:24:30.002962 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-02-04 14:52:43.817311 
+	↳ ERROR: Faild to connect to Bing Servers
+	↳ Using [ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-JO ]
+ 		↳ {'loadConfig': 1, 'connected': 0, 'downloaded': 0, 'saved': 0, 'set': 0}
+2021-02-04 14:54:09.806465 
+	↳ ERROR: Faild to connect to Bing Servers
+	↳ Using [ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-JO ]
+ 		↳ {'loadConfig': 1, 'connected': 0, 'downloaded': 0, 'saved': 0, 'set': 0}
+2021-02-04 15:22:28.916218 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-02-04 16:17:45.207819 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-02-04 17:43:39.555203 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-02-09 09:28:48.878337 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-02-19 15:24:44.493378 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-03-25 16:09:10.838374 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-03-25 16:35:14.604576 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-03-25 16:35:48.014258 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-03-25 16:36:13.261901 
+	↳ ERROR: Faild to save the image
+	↳ At [ Bing Daily Wallpaper/images/ ]
+ 		↳ {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 0, 'set': 0}
+2021-03-25 16:36:19.583295 
+	↳ ERROR: Faild to save the image
+	↳ At [ Bing Daily Wallpaper/images/ ]
+ 		↳ {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 0, 'set': 0}
+2021-03-25 16:36:42.011833 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-03-25 16:36:54.844822 
+	↳ ERROR: Faild to save the image
+	↳ At [ Bing Daily Wallpaper/images/ ]
+ 		↳ {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 0, 'set': 0}
+2021-03-25 16:37:33.341004 
+	↳ ERROR: Faild to save the image
+	↳ At [ Bing Daily Wallpaper/images/ ]
+ 		↳ {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 0, 'set': 0}
+2021-03-25 16:39:11.505742 
+	↳ ERROR: Faild to save the image
+	↳ At [ Bing Daily Wallpaper/images/ ]
+ 		↳ {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 0, 'set': 0}
+2021-03-25 16:40:00.932201 
+	↳ ERROR: Faild to save the image
+	↳ At [ Bing Daily Wallpaper/images/ ]
+ 		↳ {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 0, 'set': 0}
+2021-03-25 16:42:16.136355 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-03-25 16:42:37.682418 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-03-25 16:42:46.541169 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-03-25 16:59:24.650905 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-03-25 17:35:26.516870 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-03-25 18:13:21.031433 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-03-25 18:35:03.412370 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-03-29 01:48:56.882565 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-04-06 23:58:49.768592 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
+2021-04-07 00:09:17.074609 {'loadConfig': 1, 'connected': 1, 'downloaded': 1, 'saved': 1, 'set': 1}
